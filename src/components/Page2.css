@@ -1,0 +1,177 @@
+
+.Page2{
+    background-image:url("../../public/Rectangle 4.png");
+    display: flex;
+    width: 100%;
+    background-color:#D2DCFF;
+}
+.content-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    
+    
+}
+.content-container h4{
+    font-size: 23px;
+}
+section Page2{
+    width: 100%;
+    background-image: url("../../public/Rectangle 4.png");
+}
+.product-img img{
+    display: flex !important;
+    margin-left: 80px !important;
+    
+}
+.product-img{
+    margin-left: 80px;
+}
+.horizontal-container{
+    display: flex;
+
+}
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    flex-direction: row;
+    position: relative;
+    top: 50px;
+    align-items: center;
+    justify-content: center;
+
+}
+.card-1 ,.card-2{
+    width: 400px;
+    height: 538px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+p{
+    margin: 5px;
+    padding: 5px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.Page3{
+   display: flex; 
+   flex-direction: column;
+}
+.Page4,.Page-5{
+    margin-top: 120px;
+}
+.pyramid-cards{
+    
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    flex-direction: row;
+    position: relative;
+    top: 50px;
+    align-items: center;
+    justify-content: center;
+    align-items: flex-end;
+
+  
+}
+
+
+.bg{
+    display: flex;
+    background:#EAEEFE;
+}
+.card-01{
+   
+    height: 450px;
+ padding: 30px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    justify-content: flex-start;
+}
+.card-02{
+   padding: 30px;
+    height: 550px;
+   
+    display: flex;
+ 
+    flex-direction: column;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: black;
+    justify-content: flex-start;
+
+}
+.card-03{
+    width: 350px;
+    height: 600px;
+    padding: 30px;
+    display: flex;
+   
+    flex-direction: column;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    justify-content: flex-start;
+
+}
+.card001{
+    width: 350px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    /* margin: 14px; */
+    padding: 14px;
+
+
+}
+.card002{
+    width: 350px;
+    height:200px ;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Page-5 .cards{
+    gap: 10px !important;
+}
+.inbetween{
+    display: flex;
+
+}
+.rounded{
+    position: relative;
+    top: 179px;
+}
+.footer{
+    display: flex;
+    width: 100%;
+    top: 250px;
+    position: relative;
+}
+.footer img{
+    width: 100%;
+}
+.card0001{
+    width: 350px;
+    height:200px ;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
