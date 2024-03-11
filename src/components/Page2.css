@@ -23,7 +23,7 @@ section Page2{
 }
 .product-img img{
     display: flex !important;
-    margin-left: 80px !important;
+    /* margin-left: 80px !important; */
     
 }
 .product-img{
